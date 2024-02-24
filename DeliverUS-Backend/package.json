@@ -36,5 +36,14 @@
   "imports": {
     "#root/": "./",
     "#src/": "./src/"
-  }
+  },
+  "name": "deliverus-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
